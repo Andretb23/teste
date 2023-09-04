@@ -1,0 +1,24 @@
+    body{
+        color: #b1b1b1;
+        font-style: tahoma;
+    }
+
+    header{
+        background-color: #7e5eff;
+        margin: 20px;
+        color: white;
+        text-align: center;
+    }
+
+    nav{
+        background-image: url('./images/linguagens-front-end.webp');
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 350px;
+    }
+    
+    article{
+        width: 30%;
+        
+    }
